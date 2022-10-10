@@ -4,7 +4,7 @@
 1. 每次发送内容随机，可对别人起到骚扰作用
 2. 持续发送也不会被微信禁言
 3. 使用简单，封装好的exe不用配置python环境即可使用
-### 使用方法: 提示:git clone下来这个仓库，找到“Flood_The_Screen_v1_Setup.exe”，打开它，即可安装到你的电脑上
+### 使用方法: 提示:git clone下来这个仓库，找到“[Flood_The_Screen_v1_Setup.exe](https://github.com/oscarzhu0925/flood-the-screen/raw/a12de2a2a10ca24e6848ee701c886b70c166c4d7/Flood_The_Screen_v1_Setup.exe)”，打开它，即可安装到你的电脑上
 1. 打开安装目录下的app.exe或桌面“刷屏工具”快捷方式
 2. 弹出窗口点确定
 3. 弹出一个输入框，输入刷屏次数(只写数字，不能写0)，回车。此时点击右上角叉号可以关闭，否则后续开始刷屏后关闭会较为麻烦
